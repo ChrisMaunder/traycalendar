@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrayCalendar", "TrayCalendar.vcproj", "{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		(WCE MIPS) Debug = (WCE MIPS) Debug
+		(WCE MIPS) Release = (WCE MIPS) Release
+		(WCE MIPSFP) Debug = (WCE MIPSFP) Debug
+		(WCE MIPSFP) Release = (WCE MIPSFP) Release
+		(WCE SH3) Debug = (WCE SH3) Debug
+		(WCE SH3) Release = (WCE SH3) Release
+		(WCE x86em) Debug = (WCE x86em) Debug
+		(WCE x86em) Release = (WCE x86em) Release
+		Debug = Debug
+		Debug UNICODE = Debug UNICODE
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE MIPS) Debug.ActiveCfg = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE MIPS) Debug.Build.0 = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE MIPS) Release.ActiveCfg = Release|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE MIPS) Release.Build.0 = Release|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE MIPSFP) Debug.ActiveCfg = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE MIPSFP) Debug.Build.0 = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE MIPSFP) Release.ActiveCfg = Release|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE MIPSFP) Release.Build.0 = Release|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE SH3) Debug.ActiveCfg = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE SH3) Debug.Build.0 = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE SH3) Release.ActiveCfg = Release|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE SH3) Release.Build.0 = Release|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE x86em) Debug.ActiveCfg = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE x86em) Debug.Build.0 = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE x86em) Release.ActiveCfg = Release|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.(WCE x86em) Release.Build.0 = Release|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.Debug.ActiveCfg = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.Debug.Build.0 = Debug|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.Debug UNICODE.ActiveCfg = Debug UNICODE|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.Debug UNICODE.Build.0 = Debug UNICODE|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.Release.ActiveCfg = Release|Win32
+		{3F98379C-2167-4CDF-8707-F50FAD4BF8BC}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
