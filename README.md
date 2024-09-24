@@ -2,8 +2,6 @@
 
 A simple application that places a date in the system tray
 
-- [Download demo executable - 100 Kb](https://raw.githubusercontent.com/ChrisMaunder/traycalendar/master/docs/assets/traycalendar_exe.zip)
-
 
 ![Sample Image - traycalendar.gif](https://raw.githubusercontent.com/ChrisMaunder/traycalendar/master/docs/assets/traycalendar.gif)
 
